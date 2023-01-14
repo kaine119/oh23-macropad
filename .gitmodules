@@ -2,3 +2,6 @@
 	path = pcb/keyswitch-kicad-library
 	url = https://github.com/kaine119/keyswitch-kicad-library/tree/main
 
+[submodule "OPL_Kicad_Library"]
+	path = OPL_Kicad_Library
+	url = https://github.com/Seeed-Studio/OPL_Kicad_Library.git

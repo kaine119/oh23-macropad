@@ -13,7 +13,8 @@ _autosave-*
 *-save.pro
 *-save.kicad_pcb
 fp-info-cache
-sutd75-backups
+oh23-macropad-backups
+\#auto_saved_files\#
 
 # Netlist files (exported from Eeschema)
 *.net

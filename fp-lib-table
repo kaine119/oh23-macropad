@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Seeed Studio XIAO Series Library")(type "KiCad")(uri "${KIPRJMOD}/OPL_Kicad_Library/Seeed Studio XIAO Series Library")(options "")(descr ""))
+  (lib (name "XIAO_PCB")(type "KiCad")(uri "${KIPRJMOD}/seeed-xiao/XIAO_PCB.pretty")(options "")(descr ""))
+)
