@@ -1,0 +1,4 @@
+[submodule "pcb/keyswitch-kicad-library"]
+	path = pcb/keyswitch-kicad-library
+	url = https://github.com/kaine119/keyswitch-kicad-library/tree/main
+
