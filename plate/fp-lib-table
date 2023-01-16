@@ -1,3 +1,3 @@
 (fp_lib_table
-  (lib (name "keyswitch-kicad-library")(type "KiCad")(uri "C:/Users/Kai/Documents/_MyDocuments/Keyboards/sutd-oh23-macropad/pcb/keyswitch-kicad-library")(options "")(descr ""))
+  (lib (name "Switch_Keyboard_Hotswap_Kailh")(type "KiCad")(uri "${KIPRJMOD}/../pcb/keyswitch-kicad-library/library/footprints/Switch_Keyboard_Hotswap_Kailh.pretty")(options "")(descr ""))
 )
