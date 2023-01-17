@@ -864,7 +864,7 @@
     (property "Sheetname" "")
     (path "/4a8fa625-d4ad-4328-af18-e7de5be51a8e")
     (attr through_hole)
-    (fp_text reference "J1" (at 0 2.33 270 unlocked) (layer "B.SilkS")
+    (fp_text reference "J1" (at 0 2.33 270 unlocked) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 444e931c-0857-4d51-b499-5e803bdf4757)
     )
@@ -921,7 +921,7 @@
   )
 
   (gr_line (start 94.231 102.5) (end 89.659 102.5) (layer "B.SilkS") (width 0.15) (tstamp 01671ea4-58c8-4ead-9c85-24cee246ec85))
-  (gr_line (start 88.3 79.8) (end 88.3 84.3) (layer "B.SilkS") (width 0.15) (tstamp 38b90783-718d-48dc-bcc3-602e2e88e9f3))
+  (gr_line (start 85.145 80.45) (end 85.145 84.95) (layer "B.SilkS") (width 0.15) (tstamp 38b90783-718d-48dc-bcc3-602e2e88e9f3))
   (gr_line (start 86.611 102.5) (end 76.959 102.5) (layer "B.SilkS") (width 0.15) (tstamp dc0e5258-f8db-46ff-8fda-985f5e653a54))
   (gr_line (start 62.87525 104.725002) (end 62.87525 109.725002) (layer "Eco2.User") (width 0.15) (tstamp 34f81266-56ed-4823-b771-c3d9cfc7b9a0))
   (gr_line (start 135.025 75.725) (end 135.025 80.725) (layer "Eco2.User") (width 0.15) (tstamp 51aa5e83-d9a1-49c2-8b20-fe7ebfc7f40e))
@@ -962,7 +962,7 @@
   (gr_text "GP02" (at 83.055 98.87 270) (layer "B.SilkS") (tstamp 1002a3e1-b17a-4b43-8751-cc7347507fea)
     (effects (font (size 1 1) (thickness 0.15)) (justify left mirror))
   )
-  (gr_text "for all your \nctrl-c & ctrl-v\nneeds" (at 87.55 82.05) (layer "B.SilkS") (tstamp 1d91c760-18c1-45ec-9f98-9704fff4b1ce)
+  (gr_text "for all your \nctrl-c & ctrl-v\nneeds" (at 84.395 82.7) (layer "B.SilkS") (tstamp 1d91c760-18c1-45ec-9f98-9704fff4b1ce)
     (effects (font (size 1 1) (thickness 0.15)) (justify left mirror))
   )
   (gr_text "GP06" (at 90.675 98.87 270) (layer "B.SilkS") (tstamp 21852065-83e0-4e84-bb13-7a9869d87e68)
@@ -1001,10 +1001,10 @@
   (gr_text "For info on programming, etc: \nkaine119.github.io/oh23-macropad" (at 124.045 104.3) (layer "B.SilkS") (tstamp d0b6e38d-d3c8-493e-8a2a-dcb41f923523)
     (effects (font (size 1 1) (thickness 0.15)) (justify left mirror))
   )
-  (gr_text "3-KEY MACROPAD" (at 89.35 82.75) (layer "B.SilkS") (tstamp d6fa18ad-79e2-4784-a871-8ecc973c5e60)
+  (gr_text "3-KEY MACROPAD" (at 85.795 83.4) (layer "B.SilkS") (tstamp d6fa18ad-79e2-4784-a871-8ecc973c5e60)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify right mirror))
   )
-  (gr_text "SUTD Keyboard Warriors presents a" (at 89.45 80.5) (layer "B.SilkS") (tstamp de33c5ea-664f-40f6-afe0-d23a41ce3453)
+  (gr_text "SUTD Keyboard Warriors presents a" (at 85.895 81.15) (layer "B.SilkS") (tstamp de33c5ea-664f-40f6-afe0-d23a41ce3453)
     (effects (font (size 1 1) (thickness 0.15)) (justify right mirror))
   )
   (gr_text "GP29" (at 88.135 98.87 270) (layer "B.SilkS") (tstamp dff4b348-9540-48bb-a847-3ede4d6d4941)
@@ -10453,6 +10453,14 @@
         (xy 91.444892 84.295642)
         (xy 108.086649 84.295642)
       )
+    )
+  )
+  (group "" (id 8ab2ef8c-9668-4b19-9e39-6d699fea1711)
+    (members
+      1d91c760-18c1-45ec-9f98-9704fff4b1ce
+      38b90783-718d-48dc-bcc3-602e2e88e9f3
+      d6fa18ad-79e2-4784-a871-8ecc973c5e60
+      de33c5ea-664f-40f6-afe0-d23a41ce3453
     )
   )
   (group "" (id a9b605ba-0040-4010-bd5b-707b1ca56bcb)
