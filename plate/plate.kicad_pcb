@@ -87,7 +87,7 @@
     (property "Sheetname" "")
     (path "/a06717a7-c8a6-47d8-9ad1-2b92297d203e")
     (attr exclude_from_pos_files)
-    (fp_text reference "H4" (at 0 -4.2) (layer "F.SilkS")
+    (fp_text reference "H4" (at 0 -4.2) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 8ced25fb-e6f7-4b04-8962-1b49ecc5374d)
     )
@@ -113,7 +113,7 @@
     (property "Sheetname" "")
     (path "/0716053e-cfba-4c05-8dfb-fe8da88a9c20")
     (attr exclude_from_pos_files)
-    (fp_text reference "H1" (at 0 -4.2) (layer "F.SilkS")
+    (fp_text reference "H1" (at 0 -4.2) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp aee47bd2-a4fc-40fe-ad18-fd1bc73202df)
     )
@@ -139,7 +139,7 @@
     (property "Sheetname" "")
     (path "/56f8ffc3-3a94-409b-af25-171867b9b2b5")
     (attr exclude_from_pos_files)
-    (fp_text reference "H2" (at 0 -4.2) (layer "F.SilkS")
+    (fp_text reference "H2" (at 0 -4.2) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp cfe27ff4-47a9-433b-b280-1f36ce17304c)
     )
@@ -165,7 +165,7 @@
     (property "Sheetname" "")
     (path "/0d9f0a96-b740-49ee-8c80-e08d16b40abc")
     (attr exclude_from_pos_files)
-    (fp_text reference "H3" (at 0 -4.2) (layer "F.SilkS")
+    (fp_text reference "H3" (at 0 -4.2) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 020afa5a-64e4-49a1-8e4b-20743baaa456)
     )
@@ -208,5 +208,8 @@
   (gr_line (start 136.6008 79.9968) (end 150.6001 93.99626) (layer "User.1") (width 0.15) (tstamp bf0e4082-fa35-4afa-a4ad-6f0e99107863))
   (gr_line (start 172.1764 96.522207) (end 115.026185 96.522207) (layer "User.1") (width 0.1) (tstamp c95c8fce-4c27-47ac-879b-17784439031e))
   (gr_line (start 115.026185 77.4722) (end 172.1764 77.4722) (layer "User.1") (width 0.1) (tstamp f6412ce1-6687-4af2-9b68-2d8f29b152a6))
+  (gr_text "JLCJCJLCJLC" (at 143.6764 78.7222) (layer "B.SilkS") (tstamp f924c2a8-1568-4350-bfcf-a1bb35be40f3)
+    (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+  )
 
 )
