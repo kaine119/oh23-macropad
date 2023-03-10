@@ -913,10 +913,15 @@
       (net 9 "/GP04_D09") (pinfunction "Pin_10") (pintype "passive") (tstamp 8a3c8de3-09e6-44b2-9dfe-1e39c93f7ca0))
     (pad "11" thru_hole oval (at 0 -25.4 90) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 10 "/GP03_D10") (pinfunction "Pin_11") (pintype "passive") (tstamp f3e45a05-5a7a-469b-96b0-808261184319))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x11_P2.54mm_Vertical.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x11_P2.54mm_Vertical.wrl" hide
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
+    )
+    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x11_P2.54mm_Horizontal.step"
+      (offset (xyz 0 -25.4 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 180))
     )
   )
 

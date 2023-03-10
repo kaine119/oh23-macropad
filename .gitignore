@@ -34,4 +34,3 @@ output/
 output-panelised/
 *.gerberset
 *.round-tracks-config
-*.step
