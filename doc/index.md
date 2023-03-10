@@ -14,7 +14,7 @@ You may [download the Vial configurator](https://get.vial.today/download/), or [
 
 The board includes a XIAO RP2040 microcontroller unit (MCU), which behaves similarly to a Raspberry Pi Pico. As such, most of the flashing procedure for the Pico also applies to this board. More comprehensive resources for programming the control pins will be coming soon (too many commitments T_T).
 
-Firmware `.uf2` files can be found [here][firmware folder], and can be directly flashed to the board without any special drivers. You just need a USB-C cable to connect the board to your computer. 
+Firmware `.uf2` files can be found [here](https://github.com/kaine119/oh23-macropad/tree/master/firmware), and can be directly flashed to the board without any special drivers. You just need a USB-C cable to connect the board to your computer. 
 
 ### To flash a `.uf2`:
 
