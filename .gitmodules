@@ -4,3 +4,7 @@
 [submodule "pcb/OPL_Kicad_Library"]
 	path = pcb/OPL_Kicad_Library
 	url = https://github.com/Seeed-Studio/OPL_Kicad_Library.git
+[submodule "firmware/vial-qmk"]
+	path = firmware/vial-qmk
+	url = git@github.com:kaine119/vial-qmk
+  branch = kaine119-oh23-macropad
