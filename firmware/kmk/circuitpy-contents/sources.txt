@@ -1,0 +1,6 @@
+kmk: https://kmk.io, https://github.com/KMKfw/kmk_firmware
+
+neopixel driver: https://github.com/adafruit/Adafruit_CircuitPython_NeoPixel
+adafruit_fancyled: https://github.com/adafruit/Adafruit_CircuitPython_FancyLED/
+
+VL53L0X driver: https://github.com/adafruit/Adafruit_CircuitPython_VL53L0X
