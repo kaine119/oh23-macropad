@@ -1,1 +1,4 @@
-* text eol=lf
+* text=auto
+*.kicad_* lf
+*.uf2 binary
+*.zip binary
