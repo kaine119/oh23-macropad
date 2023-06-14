@@ -2,4 +2,4 @@
 
 A three-key macropad for hackers.
 
-<!-- please help i don't know what else to put here -->
+## [Workshop participants click here!](https://kaine119.github.io/oh23-macropad/workshop)
