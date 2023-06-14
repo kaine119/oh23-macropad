@@ -169,3 +169,8 @@ See each library's documentation page for more info.
     Adafruit has a `CircuitPython library bundle` that includes all of their libraries, but it's a bit too fat to fit within the (already generous) flash storage on the microcontroller. Their libraries are also distributed as single `.mpy` files, which can be found on the Releases page of the corresponding GitHub page.
     <img src="./circuitpython-library.png">
 </details>
+
+## I want to print / design a new case!
+Thanks for the interest! but, uhhh
+
+The source CAD files I used to design the macropad got corrupted, and I no longer have access to them. I've put up the STLs to print [here](https://github.com/kaine119/oh23-macropad/tree/master/case), but unless you really want to try and import a mesh into parametric modelling software (do not recommend), it'll probably be easier to design a case from scratch. I've put a set of .STEP files for the PCB and plate, as well as sample .STEPs for switches, keycaps and the VL53L0 ToF distance sensor. Have fun!
